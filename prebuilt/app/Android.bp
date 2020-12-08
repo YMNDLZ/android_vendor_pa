@@ -12,9 +12,3 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
-android_app_import {
-    apk: "Abstruct.apk",
-    name: "Abstruct",
-    presigned: true,
-    product_specific: true,
-}
